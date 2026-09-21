@@ -239,6 +239,9 @@ If **Manage My Skills** has been helpful to you, feel free to buy me a coffee or
 
 ## 🔗 Community Links
 
+**Related project**:
+- [agent-skill-manager](https://github.com/yxdwind/agent-skill-manager) — Cross-platform CLI that syncs skills to 11 domestic Chinese AI agent products (AutoClaw / Kimi / Trae / Qoder / QwenWork / DoubaoWork, etc.), with a built-in zero-dependency security audit (prompt injection / dangerous code / secrets, A-F scoring). Complementary to this project: GUI management + CLI sync.
+
 This open-source project is linked with and recognized by the LINUX DO community:
 
 - **LINUX DO**: https://linux.do/
