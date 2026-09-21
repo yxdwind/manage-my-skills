@@ -241,6 +241,9 @@ npm run release -- 0.2.3
 
 ## 🔗 社区关联与致谢 (Community Links)
 
+**相关项目**：
+- [agent-skill-manager](https://github.com/yxdwind/agent-skill-manager) — 跨平台 CLI 工具，一条命令把 skill 同步到 11 个国产 AI Agent 产品（AutoClaw / Kimi / Trae / Qoder / QwenWork / 豆包工作等），内置零依赖安全评测（提示注入 / 危险代码 / 敏感信息检测，A-F 评分）。与本项目互补：GUI 管理 + CLI 同步。
+
 该开源项目与 LINUX DO 社区相关联并获得其认可：
 
 - **LINUX DO**：https://linux.do/
